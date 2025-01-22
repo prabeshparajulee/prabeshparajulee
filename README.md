@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python and Javascript Projects**
 
-- 🌱 I’m currently learning **python, djyango, machine learning concepts**
+- 🌱 I’m currently learning **python, machine learning concepts**
 
 - 💬 Ask me about **NodeJS , Javascript, MongoDB**
 
