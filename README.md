@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabesh Parajulee</h1>
-<h3 align="center">A passionate programmer and a electronics, communication and information engineering student</h3>
+<h3 align="center">A passionate learner and a electronics, communication and information engineering student</h3>
 
 - 🔭 I’m currently working on **Python and Javascript Projects**
 
