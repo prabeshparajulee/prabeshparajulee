@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **prabeshparajulee@gmail.com**
 
-- ⚡ Fun fact **My code is like the universe: a mix of black holes (bugs) and shining stars (solutions).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
